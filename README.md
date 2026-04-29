@@ -1,8 +1,11 @@
 ## Kia Ora! 👋
 
-I'm Johnny, a software engineer based in New Zealand.
+I'm Johnny, a software developer based in New Zealand.
 
-I enjoy working on both frontend and backend development where creating a focus on user friendly websites is my main objective. I'll be updating this profile as go with new projects to further my experience and showcase my work.
+I enjoy working on both frontend and backend development where creating a focus on user friendly websites is my main objective. I'll be updating this profile as I go with new projects to further my experience and showcase my work.
+
+## LinkedIn
+www.linkedin.com/in/johnny-cassin-82bb414a 
 
 _____________________________________________________________________________________________________________________________________________
 

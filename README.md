@@ -80,8 +80,5 @@ Meet the team behind HiddenGemz:
 -   **Melia G** - [GitHub Profile](https://github.com/melia-gratsounas)
 
 ---
-
-## 📄 License
-This project is licensed under the MIT License - see the [package.json](package.json) file for details.
 _____________________________________________________________________________________________________________________________________________
 

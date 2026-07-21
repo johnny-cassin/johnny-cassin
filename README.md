@@ -42,6 +42,8 @@ ________________________________________________________________________________
 
 HiddenGemz is a full-stack community-driven platform designed to help you discover, share, and save the best local spots. Whether it's a quiet cafe, a bustling bar, or a hidden restaurant, HiddenGemz connects you with authentic local experiences.
 
+Link: https://hidden-gemz-nz.onrender.com/
+
 ## 🚀 Features
 
 -   **Discover:** Browse a curated list of local "gemz" with detailed reviews and interactive maps.
